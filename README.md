@@ -1,5 +1,8 @@
 # Nano-Contact-Application-Node
 
+![](https://img.shields.io/github/stars/MehedilslamRipon/Nano-Contact-Application-Node) ![](https://img.shields.io/github/forks/MehedilslamRipon/Nano-Contact-Application-Node)  ![](https://img.shields.io/github/issues/MehedilslamRipon/Nano-Contact-Application-Node) ![](https://img.shields.io/bower/v/editor.md.svg) 
+![](https://img.shields.io/github/release/pandao/editor.md.svg)
+
 ## Features
 * POST new data (POST)
 * Get all posted data (GET)
