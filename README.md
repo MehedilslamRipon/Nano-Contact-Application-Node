@@ -7,4 +7,6 @@
 * Update posted data by ID (PUT)
 * Delete posted data by ID (DELETE)
 
+> Use Postman to run this application ☺
+
 **N.B: All data will be temporarily stored in RAM. If you refresh your tab or restart your server, then all data will be deleted!**
